@@ -1,0 +1,3 @@
+[submodule ".cursor/marketing-skills"]
+	path = .cursor/marketing-skills
+	url = https://github.com/kostja94/marketing-skills.git
